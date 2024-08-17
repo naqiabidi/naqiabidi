@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Java and JS**
 
-- 📫 How to reach me **naqiabidi.19@gmail.com**
+- 📫 How to reach me **naqiabidi19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
